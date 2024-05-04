@@ -1,1 +1,1 @@
-Goodluck wit h this shit
+Goodluck with this shit
