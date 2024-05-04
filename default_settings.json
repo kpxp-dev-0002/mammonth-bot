@@ -1,0 +1,26 @@
+{
+    "forbidden_list": ["discord.gg", "@", "GG_Aventador", "....!", "https", "http", "years old", "12", "11", "10", "9", "8"],
+    "commands_whitelist": [1170126425513275424, 721085423174287434],
+
+    "silent_mod": false,
+    "ignore_dm_mod": false,
+
+
+    "continue_sentence": true,
+
+    "ignore_me": true,
+    "ignore_bots": true,
+
+    "min_words": 10,
+    "max_words": 15,
+
+    "min_sentences": 1,
+    "max_sentences": 3,
+
+    "delay": true,
+    "delay_min_ms":600,
+    "delay_max_ms": 800,
+
+    "dice_mod": false,
+    "chance": 5
+}
